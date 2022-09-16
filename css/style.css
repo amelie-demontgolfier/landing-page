@@ -1,0 +1,9 @@
+@import url("components/banner.css");
+@import url("components/navbar.css");
+@import url("components/chateau.css");
+@import url("components/containers.css");
+
+
+body {
+    margin: 0;
+}

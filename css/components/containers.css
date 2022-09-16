@@ -1,0 +1,22 @@
+.white-container {
+    width: 100vw;
+}
+.histoire-content h3{
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.image {
+    height: 400px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.content-lieu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

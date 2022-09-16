@@ -1,0 +1,38 @@
+.chateau {
+    background-image: url("../../images/chateau.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 50vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+
+}
+
+.chateau h1 {
+    color: white;
+    font-size: 45px;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.chateau h2{
+    color: white;
+    font-size: 30px;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.histoire {
+    margin: 0 auto;
+    padding: 30px;
+    width: 80%;
+    background-color: white;
+}
+.histoire-content {
+    border: 1px solid #E38B29;
+    padding: 10px;
+}

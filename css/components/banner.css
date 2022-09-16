@@ -1,0 +1,24 @@
+.banner {
+    background-image: url("../../images/chateaudev-banner.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#logo{
+    width: 600px;
+    height: 200px;
+}
+
+.banner h1 {
+    color: white;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
